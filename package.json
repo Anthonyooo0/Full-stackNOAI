@@ -1,0 +1,23 @@
+{
+  "name": "fullstacknoai",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Anthonyooo0/Full-stackNOAI#readme",
+  "bugs": {
+    "url": "https://github.com/Anthonyooo0/Full-stackNOAI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthonyooo0/Full-stackNOAI.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "SlotMachine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
